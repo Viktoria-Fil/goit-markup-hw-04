@@ -199,7 +199,6 @@ a {
 .container-icons {
   border: 1px solid #8e8f99;
   border-radius: 4px;
-  width: 264px;
   height: 112px;
   background: #f4f4fd;
   display: flex;
@@ -232,8 +231,10 @@ a {
 }
 
 .team-social-container {
-  margin-left: 16px;
+  padding-left: 16px;
+  padding-right: 16px;
 }
+
 .social-list {
   display: flex;
   column-gap: 24px;
